@@ -7,9 +7,7 @@ It helps users to manage books, issue & return them, and track library records e
 ## Features 🚀
 - 📌 Add, remove, and update book records  
 - 📌 Issue books to students & maintain records  
-- 📌 Return books with due date calculations  
 - 📌 Display all available books in the library  
-- 📌 Search for books using title or author name  
 
 ## Technologies Used 🛠️
 - **Language:** C++  
